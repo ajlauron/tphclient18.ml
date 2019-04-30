@@ -17,14 +17,15 @@
 	<plugin name="cordova-plugin-whitelist" />
 	<plugin name="cordova-plugin-device" />
 	<plugin name="cordova-plugin-splashscreen"            source="npm">
-      		<preference name="SplashScreen"               value="splash" />
+      		
+	</plugin>  
+	<platform name="android">
+		<preference name="SplashScreen"               value="splash" />
       		<preference name="AutoHideSplashScreen"       value="true" />
       		<preference name="SplashScreenDelay"          value="5000" />
       		<preference name="SplashMaintainAspectRatio"  value="true" />
       		<preference name="FadeSplashScreen"           value="true"/>
 		<preference name="ShowSplashScreenSpinner"    value="true" />
-	</plugin>  
-	<platform name="android">
     <icon src="icon.png" />
     <splash src="splash.png" />
 	</platform>
