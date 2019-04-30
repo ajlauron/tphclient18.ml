@@ -17,7 +17,7 @@
 	<plugin name="cordova-plugin-whitelist" />
 	<plugin name="cordova-plugin-splashscreen" />
 	<plugin name="cordova-plugin-device" />
-	<preference name="SplashScreen"               value="screen" />
+	<preference name="SplashScreen" value="screen" />
 	<preference name="AutoHideSplashScreen"       value="true" />
 	<preference name="SplashScreenDelay"          value="5000" />
 	<preference name="SplashMaintainAspectRatio"  value="true" />
@@ -25,7 +25,7 @@
 	<preference name="ShowSplashScreenSpinner"    value="false" />
 	<platform name="android">
     <icon src="icon.png" />
-    <splash src="Splash.png" />
+    <splash src="splash.png" />
 	</platform>
 	
 	<allow-navigation href="https://tphclient18.ml/*" />
