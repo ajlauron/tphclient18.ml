@@ -2,7 +2,7 @@
 <widget xmlns = "http://www.w3.org/ns/widgets"
 	xmlns:android = "http://schemas.android.com/apk/res/android"
 	id = "live.trendsph.app"
-	version = "1.0.0">
+	version = "1.19">
 	<name>TrendsPh Live Shop App Demo</name>
 	<description>Shop App Demo</description>
 	<author href="https://www.trendsph.live/" email="admin@trendsph.live">TrendsPh Live</author>
@@ -26,6 +26,6 @@
     <icon src="icon.png" />
     <splash src="splash.png" />
 	</platform>
-	<allow-navigation href="https://tphclient18.ml/*" />
+	<allow-navigation href="https://tphclient19.ml/*" />
 	
 </widget>
