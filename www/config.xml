@@ -6,7 +6,7 @@
 	<name>TrendsPh Live Shop App Demo</name>
 	<description>Shop App Demo</description>
 	<author href="https://www.trendsph.live/" email="admin@trendsph.live">TrendsPh Live</author>
-	<preference name="phonegap-version"       value="cli-6.3.0" />
+	<preference name="phonegap-version"       value="cli-6.5.0" />
 	<preference name="permissions" value="none"/>
 	<preference name="android-build-tool" value="gradle"/>
     <preference name="orientation"                value="default" />
