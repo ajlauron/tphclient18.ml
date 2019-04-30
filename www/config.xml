@@ -6,7 +6,7 @@
 	<name>TrendsPh Live Shop App Demo</name>
 	<description>Shop App Demo</description>
 	<author href="https://www.trendsph.live/" email="admin@trendsph.live">TrendsPh Live</author>
-	<preference name="phonegap-version"       value="cli-6.5.0" />
+	<preference name="phonegap-version"       value="cli-7.0.1" />
 	<preference name="permissions" value="none"/>
 	<preference name="android-build-tool" value="gradle"/>
     <preference name="orientation"                value="default" />
@@ -17,7 +17,7 @@
 	<plugin name="cordova-plugin-whitelist" />
 	<plugin name="cordova-plugin-splashscreen" />
 	<plugin name="cordova-plugin-device" />
-	<preference name="splash.png" 		      value="splash" />
+	<preference name="SplashScreen" 	      value="splash" />
 	<preference name="AutoHideSplashScreen"       value="true" />
 	<preference name="SplashScreenDelay"          value="5000" />
 	<preference name="SplashMaintainAspectRatio"  value="true" />
