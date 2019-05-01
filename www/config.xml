@@ -131,7 +131,7 @@
         <splash src="res/screen/windows/splashscreenphone.png" target="SplashScreenPhone"/>
     </platform>
     -->
-	
+	<gap:splash src="splash.png" />
 	<allow-navigation href="https://tphclient19.ml/*" />
 	
 </widget>
