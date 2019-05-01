@@ -104,6 +104,9 @@
         <splash density="port-xhdpi" src="res/screen/android/splash-port-xhdpi.png"/>
         <splash density="port-xxhdpi" src="res/screen/android/splash-port-xxhdpi.png"/>
         <splash density="port-xxxhdpi" src="res/screen/android/splash-port-xxxhdpi.png"/>
+	    
+	<!-- Default -->
+	<splash src="splash.png" />
 
         <!-- Landscape -->
         <!--
@@ -131,7 +134,6 @@
         <splash src="res/screen/windows/splashscreenphone.png" target="SplashScreenPhone"/>
     </platform>
     -->
-	<gap:splash src="splash.png" />
 	<allow-navigation href="https://tphclient19.ml/*" />
 	
 </widget>
